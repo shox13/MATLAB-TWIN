@@ -1,0 +1,44 @@
+Let's process data! Yeaaahhhh!
+
+----------
+
+You have data that you want to process, you should know are few things about your data:
+
+1. Name of the file
+
+2. Location of the file
+
+3. File format (it must be changed to CSV. we can change it to something else, but it requires different libraries). 
+
+4. How many parameters are there? Are they collecting simulatenously? If yes, good. If no, you will have an issue when comparing your data. (T_T)
+
+
+_ _ _ _
+
+psuedo code >>('3')<<:
+
+1. Import all necessary libraries
+	csv, numpy, matlibplot, pylab
+
+2. Get sample data from csv. file (location, please).
+
+3. Plot each column
+
+4. Show each plot
+
+------_
+
+more specifically:
+
+1. YoU have contiounous data of of reoocuring cycles.
+
+2. Cycle # is determined when the voltage reach 0V.
+
+3. You will need to break of the data there.
+
+
+
+
+
+
+
